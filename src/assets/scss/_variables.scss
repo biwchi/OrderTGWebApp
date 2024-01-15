@@ -1,0 +1,22 @@
+// Colors
+:root {
+  // Telegram color variables override (for safety reasons)
+  --tg-theme-bg-color: #171918;
+  --tg-theme-text-color: #f1f1f1;
+  --tg-theme-secondary-bg-color: #212322;
+  --tg-theme-hint-color: #818181;
+  --tg-theme-link-color: #2fc5b1;
+  --tg-theme-button-color: #3fc1b0;
+  --tg-theme-button-text-color: #f9ffff;
+}
+
+// Typography
+:root {
+  --fs-hint: 0.8rem;
+  --fs-paragraph: 1rem;
+  --fs-header-5: 1rem;
+  --fs-header-4: 1.125rem;
+  --fs-header-3: 1.5625rem;
+  --fs-header-2: 2.1875rem;
+  --fs-header-1: 3rem;
+}

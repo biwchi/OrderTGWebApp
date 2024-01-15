@@ -1,0 +1,10 @@
+@use "./reset";
+@use "./variables";
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400,500&display=swap");
+
+body {
+  font-family: "Rubik", sans-serif;
+  background-color: var(--tg-theme-bg-color);
+  color: var(--tg-theme-color-text);
+}
